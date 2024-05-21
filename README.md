@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**107761024/107761024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+        BEM VINDOS AO MEU PERFIL 
+  meu nome e ingrid gabrielly 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - estou estudando no alura
+  - estou me desenvolvendo na linguagem javaScript
+  - utilizo este espaco para a minha organizacao e compartilhamento dos meus projetos desenvolvidos
+
+
+        VOCE PODE ENTRAR EM CONTATO COMIGO
+
+    00001077610245sp@al.educacao.sp.gov.br
+
+    @107761024
